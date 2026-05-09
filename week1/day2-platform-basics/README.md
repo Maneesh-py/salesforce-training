@@ -64,10 +64,15 @@ Task 4: Real System Thinking
 
 App Name
 College Admission Management App
+
 Objects Inside the App
+
 -Student
+
 -Course
+
 -Faculty
+
 -Admission
 
 <img width="946" height="533" alt="Screenshot 2026-05-09 221422" src="https://github.com/user-attachments/assets/af82f78a-dc4e-4e62-be57-1af647f645bb" />
