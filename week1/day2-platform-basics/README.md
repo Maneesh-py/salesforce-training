@@ -20,18 +20,23 @@ College Admission Management System
 - Admission
 ## User Interaction
 Students can apply for admissions, faculty can review applications, and administrators can manage student records and course details using the app.
+
 Task 1: Connect Day 1 + Day 2
 CRM concepts like Account, Contact, and Opportunity are stored in Salesforce as Objects. These objects are grouped together inside an App to help users manage their work easily.
 For example, an Account stores company details, a Contact stores person details, and an Opportunity tracks possible business deals inside the Sales App.
+
 Task 2: Platform Understanding
 What is an App in Salesforce?
 An App is a collection of tools, objects, tabs, and features built for a specific business purpose.
+
 What is an Object?
 An Object is like a table that stores information in Salesforce.
 Example:
 Account, Contact, Student.
+
 What is a Tab?
 A Tab helps users quickly open and access objects or features from the navigation menu.
+
 Task 3: Thinking Task
 When do we use Configuration (No Code)?
 Configuration is used when we can customize Salesforce using clicks and settings without writing code.
@@ -41,6 +46,7 @@ When do we use Coding (Apex)?
 Coding is used when the requirement is complex and cannot be handled using simple configuration tools.
 Example:
 Sending custom automated logic, Integrating Salesforce with external applications
+
 Task 4: Real System Thinking
 App Name
 College Admission Management App
